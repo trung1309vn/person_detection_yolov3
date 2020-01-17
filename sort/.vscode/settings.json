@@ -1,0 +1,7 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/aioz-trung-intern/Robotics/Beetlebot_Git/devel/lib/python2.7/dist-packages",
+        "/home/aioz-trung-intern/Robotics/product-team-workspace/ros_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ]
+}

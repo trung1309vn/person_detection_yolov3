@@ -1,0 +1,32 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/aioz-trung-intern/Robotics/Beetlebot_Git/devel/include/**",
+        "/home/aioz-trung-intern/Robotics/product-team-workspace/ros_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/aioz-trung-intern/Robotics/Beetlebot_Git/src/beetlebot_AIOZ/navigation/amcl/include/**",
+        "/home/aioz-trung-intern/Robotics/Beetlebot_Git/src/beetlebot_AIOZ/navigation/base_local_planner/include/**",
+        "/home/aioz-trung-intern/Robotics/Beetlebot_Git/src/beetlebot_AIOZ/navigation/carrot_planner/include/**",
+        "/home/aioz-trung-intern/Robotics/Beetlebot_Git/src/beetlebot_AIOZ/navigation/clear_costmap_recovery/include/**",
+        "/home/aioz-trung-intern/Robotics/Beetlebot_Git/src/beetlebot_AIOZ/navigation/costmap_2d/include/**",
+        "/home/aioz-trung-intern/Robotics/Beetlebot_Git/src/beetlebot_AIOZ/navigation/dwa_local_planner/include/**",
+        "/home/aioz-trung-intern/Robotics/Beetlebot_Git/src/beetlebot_AIOZ/navigation/global_planner/include/**",
+        "/home/aioz-trung-intern/Robotics/Beetlebot_Git/src/beetlebot_AIOZ/navigation/map_server/include/**",
+        "/home/aioz-trung-intern/Robotics/Beetlebot_Git/src/beetlebot_AIOZ/navigation/move_base/include/**",
+        "/home/aioz-trung-intern/Robotics/Beetlebot_Git/src/beetlebot_AIOZ/navigation/move_slow_and_clear/include/**",
+        "/home/aioz-trung-intern/Robotics/Beetlebot_Git/src/beetlebot_AIOZ/navigation/nav_core/include/**",
+        "/home/aioz-trung-intern/Robotics/Beetlebot_Git/src/beetlebot_AIOZ/navigation/navfn/include/**",
+        "/home/aioz-trung-intern/Robotics/product-team-workspace/ros_ws/src/io_packages/library/realsense-ros/realsense2_camera/include/**",
+        "/home/aioz-trung-intern/Robotics/Beetlebot_Git/src/beetlebot_AIOZ/navigation/rotate_recovery/include/**",
+        "/home/aioz-trung-intern/Robotics/Beetlebot_Git/src/beetlebot_AIOZ/navigation/voxel_grid/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}

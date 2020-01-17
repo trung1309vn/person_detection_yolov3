@@ -1,0 +1,6 @@
+opencv-python
+tensorflow-gpu
+numpy
+termcolor
+colorsys
+json

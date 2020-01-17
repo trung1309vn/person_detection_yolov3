@@ -1,0 +1,11 @@
+.idea
+*.idea
+__pycache__
+*__pycache__
+data/darknet_weights
+data/demo
+*.pb
+*.mp4
+data_res/*
+sort/test
+sort/test_2
