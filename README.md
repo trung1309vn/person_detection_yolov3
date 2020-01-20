@@ -21,4 +21,6 @@ pip install -r requirement.txt
     $ python demo_no_deep_sort.py <cam_folder> <video_number_start> <video_number_end> <mask_name> <date>
 ```
 
-* Note: arguments above are specific for video's contain folder and name, change it in main function for your case
+* Note 1: arguments above are specific for video's contain folder and name, change it in main function for your case, also output folder
+
+* Note 2: According to the code, data and result are saved in data_res folder, which contains data folder, "res" type folders for result videos and people counting in every frame of videos, "cor" type folders for coordinate of people location on video frames, "fre" type folders for people bounding box accumulate, "heat" type folders for saving heat map results which are derived from "cor" and "res", use Heatmap.ipynb to derive it
